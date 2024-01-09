@@ -1,0 +1,98 @@
+body{
+  background-image: url( "background.jpg") ;
+background-size:cover;
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+
+.quadrato{
+      width: 900px;
+      height: 600px;
+      margin: 5%;
+      background-color: rgba(0, 0, 0, 0.5);
+      border-radius: 10px;
+      text-align: center;
+      font-style: oblique;s
+
+}
+ .logo{
+   width: 200px;
+   padding: 30px;
+ }
+
+
+.Primo-titolo{
+  font-size: 30px;
+  color: rgb(3, 210, 3);
+
+}
+
+.input{
+  background-color: rgb(3, 210, 3);
+  height: 35px;
+  padding : 10px;
+  box-sizing: border-box;
+  width: 720px;
+  margin: auto;
+
+}
+
+.input1{
+  width: 50px;
+  height: 10px;
+}
+
+.input2{
+  width: 130px;
+  height: 10px;
+}
+
+.input3{
+  width: 70px;
+  height: 10px;
+}
+
+.Contenuto1{
+  text-align: left;
+  padding-left: 10%;
+  font-size: 20px;
+  color: white;
+  font-style:
+}
+
+
+.info{
+  font-size: 15px;
+}
+
+.piccoloblocco{
+width: 210px;
+height: 22px;
+background-color: orange;
+border-radius: 5px;
+}
+
+.piccoloblocco2{
+  width: 410px;
+  height: 22px;
+  background-color: green;
+  border-radius: 5px;
+
+}
+
+.piccoloblocco3{
+  width: 110px;
+  height: 22px;
+  background-color: red;
+  border-radius: 5px;
+
+}
+
+.spazio1{
+  padding-top: 3%;
+}
